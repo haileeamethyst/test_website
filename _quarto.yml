@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Hailee Amethyst Nolan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: Gallery.qmd
+        text: Gallery
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    fig-cap-location: bottom
+
+editor: visual
+

@@ -1,0 +1,30 @@
+---
+title: "Research"
+---
+
+## Research Overview
+
+My research focuses on forest entomology and disease ecology, with an emphasis on how environmental disturbance influences insect–pathogen interactions. During my Master’s research at Colorado State University, I studied *Monochamus* beetles as vectors of the pinewood nematode (*Bursaphelenchus xylophilus*) in forest systems shaped by wildfire disturbance. My work integrates field-based insect sampling, molecular screening, and statistical analysis to understand patterns of disease risk across space and time.
+
+## Research Examples:
+
+### Master’s Thesis
+
+ASSESSING THE EFFECTS OF ECOSYSTEM DISTURBANCE ON TWO INSECT VECTORS OF PINE WILT DISEASE IN THE SOUTHERN ROCKY MOUNTAINS\
+[Download thesis (PDF)](files/Nolan_Hailee.pdf)
+
+### Conference Presentation
+
+**Assessing Disease Transmission Following Fire Disturbance in Rocky Mountain Forests**\
+Western Forest Insect Work Conference (WFIWC, 2025)\
+[View presentation slides](files/WFIWC25_HaileeNolan.pptx)
+
+### Other research I was a part of:
+
+-   **Host-plant phenology mediates facultative ant mutualism in the rare butterfly**\
+    *Environmental Entomology* (2023)\
+    [View poster (ESA 2021)](files/ESA2021_Poster.pdf)
+
+-   **Forest arthropod research in Germany**\
+    DAAD RISE Internship Project\
+    [View publication](files/Germany.pdf)

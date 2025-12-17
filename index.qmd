@@ -1,0 +1,49 @@
+---
+links:
+    - text: LinkedIn
+      href: "https://www.linkedin.com/in/hailee-nolan-65010b252//"
+    - text: GitHub
+      href: "https://github.com/haileeamethyst"
+    - text: Email
+      href: "mailto:haileeamethyst96@gmail.com"
+---
+
+::: text-center
+![](Profilepic.jpg){width="240px" fig-alt="Hailee Amethyst Nolan"}
+
+## Hailee Amethyst Nolan
+
+[LinkedIn](https://www.linkedin.com/in/hailee-nolan-65010b252/){.btn .btn-primary} [GitHub](https://github.com/haileeamethyst){.btn .btn-secondary} [Email](mailto:haileeamethyst96@gmail.com){.btn .btn-outline-secondary}
+:::
+
+I am a forest ecologist specializing in forest entomology and disease ecology. I study the role of **Monochamus beetles** as vectors of **pine wilt disease** in forest systems shaped by wildfire disturbance. My work sits at the intersection of insect ecology, forest health, and disease dynamics, with a focus on how environmental change influences vector–pathogen interactions.
+
+I recently completed my Master of Science at Colorado State University, where my research combines field-based beetle trapping, molecular nematode screening, and statistical modeling to evaluate how vector infection risk varies across spatial and temporal disturbance gradients. I am actively seeking **PhD opportunities** beginning Fall 2026 in entomology, forest ecology, or plant–insect–pathogen systems.
+
+Outside of research, I enjoy hiking with my dog Zylah, gardening, baking, and generally spending time outdoors and traveling!
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="50%"}
+![](images/Homepage/Fieldwork_germany2.jpg){fig-alt="Fieldwork in Germany"} *Field sampling in Germany for RISE DAAD internship.*
+:::
+
+::: {.column width="50%"}
+![](images/Homepage/Sawyerbeetle4.jpg){fig-alt="Monochamus fieldwork" width="1848"} Adult *Monochamus scutellatus*
+:::
+:::::
+
+::::: columns
+::: {.column width="50%"}
+![](images/Homepage/Fieldwork_poudre2.jpg){fig-alt="Monochamus beetle"} Deploying *Monochamus* traps in the Poudre canyon
+:::
+
+::: {.column width="50%"}
+![](images/Homepage/Zylah_hiking3.jpg){fig-alt="Hiking with dog"} Hiking Horsetooth rock with Zylah
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## 

@@ -1,0 +1,258 @@
+---
+title: "Gallery"
+toc: true
+---
+
+A selection of photos from research projects, conferences, field seasons, and time outdoors.
+
+## Presentations
+
+:::::: grid
+::: g-col-6
+![](images/Presentations/P1.jpeg){fig-cap="SACNAS (Puerto Rico) — serving as a peer mentor."}
+
+*SACNAS conference, Puerto Rico- Serving as a peer mentor*
+:::
+
+::: g-col-6
+![](images/Presentations/P2.jpeg){fig-cap="Presenting at Western Forest Insect Work Conference (WFIWC), Santa Fe."}
+
+*Presenting at Western Forest Insect Work Conference (WFIWC), Santa Fe*
+:::
+
+::: g-col-6
+![](images/Presentations/P3.jpeg){fig-cap="My MURALS student research team."}
+
+*My MURALS student research team!*
+:::
+::::::
+
+## Monochamus Research
+
+::::::::::: grid
+::: g-col-6
+![](images/monochamus-research/M1.jpeg){fig-cap="Monochamus trap (Synergy Semiochemicals) deployed in the Poudre Canyon."}
+
+*Monochamus trap (Synergy Semiochemicals) deployed in the Poudre Canyon*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M2.jpeg){fig-cap="Building traps with Zylah at Guanella Pass."}
+
+*Building traps with Zylah (Guanella Pass)*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M3.jpeg){fig-cap="*Monochamus clamator*."}
+
+*Monochamus clamator*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M4.jpeg){fig-cap="Field site in the Cameron Pass area."}
+
+*Field site in Cameron Pass*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M5.jpeg){fig-cap="Biking to off-road sites with Zylah."}
+
+*Biking to off-road sites with Zylah*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M6.jpeg){fig-cap="*Monochamus scutellatus*."}
+
+*Monochamus scutellatus*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M7.jpeg){fig-cap="Field day lunch break."}
+
+*Lunch break*
+:::
+
+::: g-col-6
+![](images/monochamus-research/M8.jpeg){fig-cap="Field site in St. Vrain Canyon."}
+
+*Field site in St. Vrain canyon*
+:::
+:::::::::::
+
+## Germany Research
+
+::::::::: grid
+::: g-col-6
+![](images/Germany/G1.jpeg){fig-cap="DAAD RISE intern group (Germany)."}
+
+*DAAD RISE intern group and advisors (Germany)*
+:::
+
+::: g-col-6
+![](images/Germany/G2.jpeg){fig-cap="Field site moment — a tree covered in mushrooms."}
+
+*Field site with a tree covered in hoof fungus*
+:::
+
+::: g-col-6
+![](images/Germany/G3.jpeg){fig-cap="Benjamin deploying a trap."}
+
+*Benjamin deploying a flight interception trap*
+:::
+
+::: g-col-6
+![](images/Germany/G4.jpeg){fig-cap="Benjamin in tree harness during canopy sampling."}
+
+*Benjamin climbing for canopy sampling*
+:::
+
+::: g-col-6
+![](images/Germany/G5.jpeg){fig-cap="Deploying clay caterpillars for a predation project."}
+
+*Clay caterpillars used for predation experiment*
+:::
+
+::: g-col-6
+![](images/Germany/G6.jpeg){fig-cap="Flowers from a hike in Germany."}
+
+*Flowers from a hike in Germany*
+:::
+:::::::::
+
+## Hops Azure Research
+
+:::::: grid
+::: g-col-6
+![](images/hops-blue-research/H1.jpeg){fig-cap="Poster presentation at Entomological Society of America (2021)."}
+
+*Celastrina ant tending poster presentation by Dr. Emily Mooney at Entomological Society of America, 2021*
+:::
+
+::: g-col-6
+![](images/hops-blue-research/H2.jpeg){fig-cap="Hops blue (*Celastrina*) larvae on hops flowers."}
+
+*Hops blue (Celastrina) larvae on hops flowers*
+:::
+
+::: g-col-6
+![](images/hops-blue-research/H3.jpeg){fig-cap="*Celastrina* larvae collected using a beat sheet."}
+
+*Celastrina larvae collected using beat sheet*
+:::
+::::::
+
+## Foraging & Wildlife from Fieldwork
+
+::::::::::::: grid
+::: g-col-6
+![](images/foraging-wildlife/F1.jpg){fig-cap="Part of my personal insect collection."}
+
+*Part of my personal insect collection!*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F2.jpeg){fig-cap="Foraged raspberries at Cameron Pass."}
+
+*foraged raspberries at Cameron Pass field site*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F3.jpeg){fig-cap="Zylah and me at Picnic Rock."}
+
+*Zylah and I at Picnic Rock*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F4.jpeg){fig-cap="*Amanita muscaria* (Cameron Pass)."}
+
+*Amanita muscaria (Cameron Pass)*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F5.jpeg){fig-cap="Ichneumonid wasp at Guanella Pass."}
+
+*Ichneumonid wasp (Guanella Pass)*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F6.jpeg){fig-cap="Zylah with flowers."}
+
+*Zylah with wildflowers after a field day*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F7.jpeg){fig-cap="Crow at Guanella Pass."}
+
+*Crow (Guanella Pass)*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F8.jpeg){fig-cap="Moose at Guanella Pass."}
+
+*Moose (Guanella Pass)*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F9.jpeg){fig-cap="Guanella Pass landscape."}
+
+*Guanella Pass*
+:::
+
+::: g-col-6
+![](images/foraging-wildlife/F10.jpeg){fig-cap="Bighorn sheep at Guanella Pass."}
+
+*Bighorn sheep (Guanella Pass)*
+:::
+:::::::::::::
+
+## Hiking & Collecting Trips
+
+::::::::::: grid
+::: g-col-6
+![](images/hiking-collecting/HC1.jpeg){fig-cap="Restoration ecology class field day."}
+
+*Restoration ecology class field day*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC2.jpeg){fig-cap="Cicada collecting trip (Illinois)."}
+
+*Cicada collecting trip (Illinois)*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC3.jpeg){fig-cap="Chicago Tribune feature documenting cicada collecting."}
+
+*Chicago Tribute feature documenting cicada collecting*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC4.jpeg){fig-cap="Sumak Kawsay In Situ Research Station (Ecuador)."}
+
+*Sumak Kawsay In Situ Research Station (Ecuador)*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC5.jpeg){fig-cap="Hiking near Bogotá, Colombia."}
+
+*Hiking in Bogota, Colombia*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC6.jpeg){fig-cap="Hiking in Romania."}
+
+*Hiking in Brasov Romania*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC7.jpeg){fig-cap="Backpacking at Mooney Falls."}
+
+*Backpacking at Havasupai- Mooney Falls*
+:::
+
+::: g-col-6
+![](images/hiking-collecting/HC8.jpeg){fig-cap="Backpacking at Havasu Falls."}
+
+*Backpacking at Havasu Falls*
+:::
+:::::::::::

@@ -1,0 +1,98 @@
+---
+title: "Cirriculum Vitae"
+toc: true
+---
+
+::: text-center
+[Download CV (PDF)](files/Hailee_Nolan_CV.pdf){.btn .btn-primary}
+:::
+
+## Education
+
+**Master of Science, Ecology** — Colorado State University 2025 (GPA: 3.8)\
+**Graduate Certificate, Data Analysis** — Colorado State University 2025\
+**Bachelor of Science, Restoration Ecology** (Minor: Entomology) — Colorado State University 2022\
+**Associate of Arts**– Front Range Community College 2019
+
+## Research Experience
+
+### Student Researcher — Davis Lab of Forest Health, Entomology, Ecology & Biodiversity (CSU)
+
+*July 2021–Present*\
+- MSc research on **Monochamus** beetles as vectors of the **pinewood nematode (*Bursaphelenchus xylophilus*)** in wildfire-influenced forest systems\
+- Field trapping across disturbance gradients; **LAMP** assays for nematode presence/absence; statistical modeling of spatial and temporal patterns
+
+### Research Advisor — MURALS (Multicultural Undergraduate Research and Artistry Symposium)- First Year Scholars Academy (CSU)
+
+*Sept 2025–Present*\
+- Mentored three first-year undergraduates; designed and taught methods for a project comparing microbial communities in burned vs unburned ponderosa pine\
+- Field sampling (bark and needles); lab work included fungal plating, Baermann funnels, and microscopy (e.g., nematodes, tardigrades, ciliates, rotifers)
+
+### Research Intern — DAAD RISE Program (Research Internships in Science and Engineering), University of Göttingen (Germany)
+
+*Summer 2022*\
+- Forest zoology project examining Douglas-fir introduction and impacts on arthropod diversity and functioning\
+- Implemented lure traps and artificial caterpillars to quantify biodiversity and predation rates in the forest canopy
+
+### Student Researcher / Field Technician — Colorado Natural Heritage Program (UCCS, Mooney Lab)
+
+*Summer 2021*\
+- Studied ant–butterfly mutualisms in the rare hops azure butterfly (*Celastrina humulus*)\
+- Monitored ant tending interactions as a function of host plant phenology
+
+### Research Intern — U.S. Geological Survey / RECCS
+
+*Summer 2019*\
+- Hydrology field measurements and lab-based DNA extraction to quantify biomass flux in the Powder River as a potential contaminant-tracking approach
+
+## Publications
+
+Mooney, E. H., Fahland, A. C., **Nolan, H. A.**, Swift, A. M., & Schorr, R. (2023). Host-plant phenology mediates facultative ant mutualism in the rare butterfly, *Celastrina humulus* (Lepidoptera: Lycaenidae). *Environmental Entomology, 52*(6), 1082–1094.
+
+Underwood, J. C., Moody, J. A., Martin, D. A., **Nolan, H. A.**, & Sullivan, J. (2025). Physical, chemical, and biological results from a Lagrangian study of water and sediment transported by Powder River… *U.S. Geological Survey data release.*
+
+## Manuscripts in Preparation / Under Review
+
+**Nolan, H. A.**, Davis, T. S., & Stewart, J. Wildfire is associated with a short-term increase of pathogenic pinewood nematode (*Bursaphelenchus xylophilus*) in populations of sawyer beetles (Coleoptera: Cerambycidae).
+
+**Nolan, H. A.**, Davis, T. S., & Stewart, J. Spruce beetle kill is not associated with an increase of pathogenic pinewood nematode (*Bursaphelenchus xylophilus*) in populations of sawyer beetles (Coleoptera: Cerambycidae), but presence of spruce beetle kill impacts sawyer beetle size.
+
+## Selected Oral Presentations
+
+-   **2025** Western Forest Insect Work Conference — *Assessing Disease Transmission Following Fire Disturbance in Rocky Mountain Forests*\
+-   **2025** Front Range Student Ecology Symposium — *Assessing Disease Transmission Following Fire Disturbance in Rocky Mountain Forests*\
+-   **2024** Entomological Society of America Annual Meeting — *Assessing Disease Transmission Following Fire Disturbance in Rocky Mountain Forests*\
+-   **2024** Western Forest Insect Work Conference (Graduate Symposium) — *Presence of* *Bursaphelenchus xylophilus* *in Monochamus beetles…*\
+-   **2024** ESA North Central Branch Meeting — Student paper competition\
+-   **2019** RECCS Symposium — Oral presentation: *Modeling Downstream Changes… along the Powder River*
+
+## Selected Poster Presentations
+
+-   **2019** RECCS Symposium — Poster: *Modeling Downstream Changes… along the Powder River*
+
+## Awards, Fellowships, and Scholarships
+
+-   Entomological Society of America Student Competition — President’s Prize (2024)\
+-   DAAD RISE Internship Award (2022)\
+-   Ernest and Bernice Dice Scholarship (2022)\
+-   Linda S. Hamilton “Conserving Colorado” Award (2021)\
+-   Thomas A. and Anne L. Shepherd Diversity Scholarship (2021)\
+-   Susan C. and Laurence E. Riordan Scholarship (2021)\
+-   William Mike Fenner ’54 Scholarship (2020)
+
+## Teaching, Mentorship, and Service
+
+-   Research Advisor — MURALS\
+-   Peer Mentor / Teaching Assistant — Wolves to Rams & Bridges to Baccalaureate\
+-   Peer Mentor — SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Sceince) Conference\
+-   Volunteer — C.P. Gillette Museum of Arthropod Diversity\
+-   Secretary / Social Media Officer — CSU Gillette Entomology Club\
+-   Xi Sigma Pi Honor Society\
+-   Entomology outreach presentations — Timnath Elementary
+
+## Technical Skills
+
+**Stats & computing:** R, JMP\
+**GIS:** ArcGIS Pro\
+**Molecular / lab:** LAMP, PCR, fungal plating, Baermann funnels, DNA extraction; water/sediment processing\
+**Field methods:** insect trapping (flight interception, lure, light traps), forest measurements (BAF prism, DBH), bark punches and increment cores, pressure chamber measurements, canopy predation assays (artificial caterpillars), arthropod/plant ID; hydrology measurements
